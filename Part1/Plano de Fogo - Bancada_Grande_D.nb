@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    123416,       2695]
+NotebookDataLength[    123449,       2696]
 NotebookOptionsPosition[    121556,       2631]
-NotebookOutlinePosition[    122116,       2651]
-CellTagsIndexPosition[    122073,       2648]
+NotebookOutlinePosition[    122149,       2652]
+CellTagsIndexPosition[    122106,       2649]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2629,15 +2629,16 @@ equipamentos: \>\"", ",", "EU", ",", "\"\< m\\n\>\""}], "]"}],
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1440, 876},
+WindowSize->{1440, 857},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
-Magnification->0.75,
-FrontEndVersion->"10.3 for Linux x86 (64-bit) (October 9, 2015)",
+Magnification:>0.85 Inherited,
+FrontEndVersion->"10.3 for Microsoft Windows (64-bit) (December 10, 2015)",
 StyleDefinitions->Notebook[{
    Cell[
     StyleData[StyleDefinitions -> "Default.nb"]]}, Visible -> False, 
-  FrontEndVersion -> "10.3 for Linux x86 (64-bit) (October 9, 2015)", 
-  StyleDefinitions -> "PrivateStylesheetFormatting.nb"]
+  FrontEndVersion -> 
+  "10.3 for Microsoft Windows (64-bit) (December 10, 2015)", StyleDefinitions -> 
+  "PrivateStylesheetFormatting.nb"]
 ]
 (* End of Notebook Content *)
 
@@ -2651,50 +2652,50 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 399, 7, 163, "Title"],
-Cell[981, 31, 19479, 326, 352, "Text"],
+Cell[579, 22, 399, 7, 174, "Title"],
+Cell[981, 31, 19479, 326, 417, "Text"],
 Cell[CellGroupData[{
-Cell[20485, 361, 4263, 59, 29, "Subsubtitle"],
-Cell[24751, 422, 8696, 166, 316, "Input"]
+Cell[20485, 361, 4263, 59, 31, "Subsubtitle"],
+Cell[24751, 422, 8696, 166, 336, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[33484, 593, 682, 10, 29, "Subsubtitle"],
+Cell[33484, 593, 682, 10, 31, "Subsubtitle"],
 Cell[CellGroupData[{
-Cell[34191, 607, 4322, 107, 163, "Input"],
-Cell[38516, 716, 750, 12, 26, "Output"]
+Cell[34191, 607, 4322, 107, 217, "Input"],
+Cell[38516, 716, 750, 12, 27, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[39315, 734, 252, 5, 29, "Subsubtitle"],
+Cell[39315, 734, 252, 5, 31, "Subsubtitle"],
 Cell[CellGroupData[{
-Cell[39592, 743, 3320, 83, 155, "Input"],
+Cell[39592, 743, 3320, 83, 203, "Input"],
 Cell[42915, 828, 96, 2, 26, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[43048, 835, 5242, 151, 517, "Input"],
-Cell[48293, 988, 98, 2, 26, "Output"],
-Cell[48394, 992, 98, 2, 26, "Output"],
-Cell[48495, 996, 96, 2, 26, "Output"]
+Cell[43048, 835, 5242, 151, 472, "Input"],
+Cell[48293, 988, 98, 2, 22, "Output"],
+Cell[48394, 992, 98, 2, 22, "Output"],
+Cell[48495, 996, 96, 2, 22, "Output"]
 }, Open  ]],
-Cell[48606, 1001, 5168, 130, 433, "Input"]
+Cell[48606, 1001, 5168, 130, 368, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[53811, 1136, 3698, 51, 21, "Subsubtitle"],
+Cell[53811, 1136, 3698, 51, 17, "Subsubtitle"],
 Cell[CellGroupData[{
-Cell[57534, 1191, 5301, 96, 62, "Input"],
-Cell[62838, 1289, 2096, 32, 140, "Output"]
+Cell[57534, 1191, 5301, 96, 52, "Input"],
+Cell[62838, 1289, 2096, 32, 119, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[64983, 1327, 411, 6, 21, "Subsubtitle"],
+Cell[64983, 1327, 411, 6, 17, "Subsubtitle"],
 Cell[CellGroupData[{
-Cell[65419, 1337, 11673, 319, 649, "Input"],
-Cell[77095, 1658, 9949, 154, 218, "Output"],
-Cell[87047, 1814, 9997, 156, 123, "Output"],
-Cell[97047, 1972, 4482, 76, 212, "Output"]
+Cell[65419, 1337, 11673, 319, 551, "Input"],
+Cell[77095, 1658, 9949, 154, 185, "Output"],
+Cell[87047, 1814, 9997, 156, 104, "Output"],
+Cell[97047, 1972, 4482, 76, 180, "Output"]
 }, Open  ]],
-Cell[101544, 2051, 8464, 241, 814, "Input"],
-Cell[110011, 2294, 11517, 333, 834, "Input"]
+Cell[101544, 2051, 8464, 241, 691, "Input"],
+Cell[110011, 2294, 11517, 333, 708, "Input"]
 }, Open  ]]
 }, Open  ]]
 }
